@@ -1,4 +1,4 @@
-# edu-boss-fed
+# vue-typescript-example
 
 ## Project setup
 ```
